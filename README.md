@@ -1,7 +1,7 @@
-<h1 align="center">OVL-MD-V2</h1>
+<h1 align="center">SOSHIKI-MD-V1</h1>
 
 <p align="center">
-    <img alt="OVL" src="https://files.catbox.moe/gxcb9p.jpg">
+    <img alt="SOSHIKI" src="https://files.catbox.moe/gxcb9p.jpg">
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
     <a href="https://github.com/WhiskeySockets/Baileys">
         <img src="https://img.shields.io/badge/Baileys-Web%20API-orange?style=flat-square" alt="Using Baileys Web API" />
     </a>
-    <a href="https://github.com/Ainz-devs/OVL-MD-V2/stargazers">
+    <a href="https://github.com/rentech12/SOSHIKI-MD-V1">
         <img src="https://img.shields.io/github/stars/Ainz-devs/OVL-MD-V2?style=flat-square" alt="Stars" />
     </a>
-    <a href="https://github.com/Ainz-devs/OVL-MD-V2/network/members">
+    <a href="https://github.com/rentech12/SOSHIKI-MD-V1/network/members">
         <img src="https://img.shields.io/github/forks/Ainz-devs/OVL-MD-V2?style=flat-square" alt="Forks" />
     </a>
 </p>
@@ -225,13 +225,13 @@ jobs:
 
 ```env
 PREFIXE=.
-NOM_OWNER=Ainz
+NOM_OWNER=Ren
 NUMERO_OWNER=226xxxxxxxx
 MODE=public
 SESSION_ID=
-STICKER_PACK_NAME=ᴏᴠʟ-ᴍᴅ-ᴠ𝟸
-STICKER_AUTHOR_NAME=ᴀɪɴᴢ🔅✨
-NOM_BOT=🤖 OVL-MD BOT V2
+STICKER_PACK_NAME=Soshiki-ᴍᴅ-ᴠ1
+STICKER_AUTHOR_NAME=Ren🔅✨
+NOM_BOT=🤖 SOSHIKI-MD BOT V1
 ```
 
 </details>
